@@ -14,12 +14,14 @@ N=Satzung.new.md
 
 if test -f $D ; then
     echo Warnung: ersetze bestehende Datei
-    patch -R Satzung.chg.md $D > /tmp/$F
-    mv /tmp/$F $F
+    if test -s $D ; then
+        patch -R $F $D > /tmp/$F
+        mv /tmp/$F $F
+    fi
 fi
 
-pandoc $S -o $N
-sed -i -e 's/\[\]{#anchor[-0-9]*}//g' $N
+make md
+cp Satzung.md $N
 
 if ! diff -u $F $N > $D ; then
     echo Keine Änderungen.

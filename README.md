@@ -1,27 +1,23 @@
-# creating our statute with pandoc
+# Die Satzung der noris.solar eG
 
-To use the make file you will need pandoc and libreoffice.
+In diesem Repository ist neben der Satzung ein kleines Skript integriert,
+das diese in diverse Ausgabeformate exportiert und automatisch eine
+einigermaßen lesbare diff-Datei erzeugt.
 
-Edit *Satzung.md* as needed.
+Um das Script zu nutzen, muss neben libreoffice `pandoc` und `xmlstarlet`
+installiert sein.
 
-`make` will generate an Satzung.odt, Satzung.pdf and Satzung.docx.
+## Vorgehensweise
 
-`make odt` will only generate *Satzung.odt*.  
-`make pdf`, `make docx` will generate the odt and the file with the respective
-ending.
+Editiere `Satzung.fodt`.
 
-`make clean` will delete all generated files.
+`make` wird `Satzung.pdf`, `.docx`, `.md` und `.html` erstellen.
 
-# Satzung mit pandoc erstellen 
+`make publish` generiert einen Diff aus der gecachten und der aktuellen
+Markdown-Datei und speichert ihn unter dem aktuellen Datum im Ordner
+`changes`.
 
-Um das script zu nutzen muss pandoc und libreoffice installiert sein.
+## Warnung
 
-Passen Sie *Satzung.md* wie benötigt an.
-
-`make` wird Satzung.odt, Satzung.pdf und Satzung.docx erstellen.
-
-`make odt` erstellt nur *Satzung.odt*.  
-`make pdf`, `make docx` erstellen *Satzung.odt* und die Datei mit der
-entsprechenden Endung.
-
-`make clean` löscht alle erstellten Dateien.
+Änderungen müssen von der Generalversammlung der Genossenschaft
+mindestens mit Zweidrittelmehrheit beschlossen werden.

@@ -4,12 +4,16 @@ Stand:
 
 ##### 
 
+Dieser Text ist eine\
+Diskussionsgrundlage.\
+Er wurde noch(?) von Niemandem beschlossen.
+
 ##### Anmerkungen
 
 Grüne Texte wie dieser sind Erläuterungen und nicht Teil der
 eigentlichen Satzung.
 
-##### Umfang der Satzung
+##### Umfang dieser Satzung
 
 Vom Genossenschaftsgesetz vorgeschriebene Regelungen sind in dieser
 Satzung nicht enthalten.
@@ -68,13 +72,14 @@ müssen.
     d)  Angestellte des Mitglieds, falls das Mitglied eine juristische
         Person oder Personengesellschaft ist.
 
-4.  Ein Bevollmächtigter kann insgesamt maximal drei Stimmen vertreten.
+4.  Ein:e Bevollmächtigte:r kann insgesamt maximal drei Stimmen
+    vertreten.
 
 5.  Die Generalversammlung bestimmt ihre Versammlungsleitung auf
     Vorschlag des Aufsichtsrates.
 
-6.  Vertreter des Prüfungsverbandes können an jeder Generalversammlung
-    beratend teilnehmen.
+6.  Vertreter:innen des Prüfungsverbandes können an jeder
+    Generalversammlung beratend teilnehmen.
 
 # Mehrheitserfordernisse
 
@@ -124,7 +129,7 @@ müssen.
     e)  das Auskunftsverlangen die persönlichen oder geschäftlichen
         Verhältnisse eines Dritten betrifft;
     f)  es sich um arbeitsvertragliche Vereinbarungen mit
-        Vorstands­mitgliedern oder Mitarbeitern der Genossenschaft
+        Vorstands­mitgliedern oder Mitarbeiter:innen der Genossenschaft
         handelt.
 
 # Aufsichtsrat
@@ -166,12 +171,12 @@ müssen.
 5.  Der Vorstand führt die Genossenschaft in eigener Verantwortung. Er
     benötigt die Zustimmung des Aufsichtsrates für
 
-    1.  Eintritt in oder Austritt aus genossenschaftlichen Verbänden,
-    2.  Geschäftsordnungsbeschlüsse,
-    3.  Grundstücksgeschäfte,
-    4.  Erteilung von Prokura,
-    5.  die Aufstellung des Wirtschaftsplans,
-    6.  außerplanmäßige Geschäfte, deren Wert 50'000 € übersteigt.
+    a)  Eintritt in oder Austritt aus genossenschaftlichen Verbänden,
+    b)  Geschäftsordnungsbeschlüsse,
+    c)  Grundstücksgeschäfte,
+    d)  Erteilung von Prokura,
+    e)  die Aufstellung des Wirtschaftsplans,
+    f)  außerplanmäßige Geschäfte, deren Wert 50'000 € übersteigt.
 
 Bei wiederkehrenden Leistungen gilt die Frist bis zur nächstmöglichen
 Vertragsbeendigung.
@@ -189,7 +194,7 @@ Die Zustimmung kann für gleichartige Geschäfte generell erteilt werden.
 2.  Die Mitgliedschaft wird erworben durch
 
     a)  eine von dem/der Beitretenden zu unterzeichnende unbedingte
-        Erklärung des Beitritts und
+        Erklärung des Beitritts, und
     b)  die Zulassung durch den Vorstand.
 
 3.  Zusätzlich zu den Angaben laut § 30 GenG werden folgende Daten in
@@ -242,10 +247,10 @@ GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.
 2.  Durch Beschluss der Generalversammlung kann ein Eintrittsgeld
     festgelegt werden, das den Rücklagen zugeführt wird.
 3.  Der gesetzlichen Rücklage sind mindestens 20% des
-    Jahres­überschusses zuzuführen, bis mindestens 100% der Summe der
+    Jahres­überschusses zuzuführen, bis 100% der Summe der
     Geschäftsanteile erreicht sind.
 
-# Rückvergütung, Verjährung
+# Rückvergütung
 
 1.  Die Mitglieder haben Anspruch auf eine vom Vorstand beschlossene
     Rückvergütung.
@@ -255,10 +260,8 @@ GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.
     Rückvergütungen beziehen sich auf den Umsatz der Genossenschaft mit
     ihren Mitgliedern. Beispiel: Wenn ein Mitglied von der
     Genossenschaft für 800€ ein Balkonkraftwerk kauft, das diese für
-    600€ eingekauft hat, dann kann sie einen Teil des Jahresgewinns
-    verwenden, um dem Käufer einen Teil dieser 800€ erstatten. (In der
-    Praxis dürfte die Rückvergütung in diesem Beispiel maximal 200€
-    betragen.)
+    600€ eingekauft hat, dann kann sie einen Teil des Jahresüberschusses
+    verwenden, um dem Käufer einen Teil dieser 800€ zu erstatten.
 
     Davon unabhängig ist die Ausschüttung des Gewinns der
     Genossenschaft, der den Mitgliedern im Verhältnis ihrer Einlage
@@ -268,10 +271,11 @@ GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.
     im Verhältnis der eingezahlten Geschäftsguthaben zu Beginn des
     jeweiligen Geschäftsjahres.
 
-3.  Ansprüche auf Auszahlung von Gewinnen, Rückvergütungen und
-    Auseinandersetzungsguthaben verjähren zwei Jahre nach Fälligkeit.
+# Verjährung
 
-    Verjährte Ansprüche werden den Rücklagen der Genossenschaft
+1.  Ansprüche auf Auszahlung von Gewinnen, Rückvergütungen und
+    Auseinandersetzungsguthaben verjähren zwei Jahre nach Fälligkeit.
+2.  Verjährte Ansprüche werden den Rücklagen der Genossenschaft
     zugeführt.
 
 # Ende der Mitgliedschaft
@@ -314,7 +318,7 @@ GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.
 
     Relevant wären ansonsten die Verhältnisse zu Beginn des
     Geschäftsjahrs, aber das würde zusätzlichen Verwaltungsaufwand
-    auslösen und wäre auch nicht im Interesse des neuen Eigentümers.
+    auslösen und wäre nicht im Interesse des neuen Eigentümers.
 
 # Tod / Auflösung einer juristischen Person oder Personengesellschaft
 
@@ -324,7 +328,7 @@ GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.
     wurde, kann bis zu sechs Wochen nach der Testamentseröffnung
     beantragen, die Mitgliedschaft fortzusetzen.
 
-    Sechs Wochen: §77 GenG verlangt die Angabe einer Frist.
+    §77 GenG verlangt die Angabe einer Frist.
 
 3.  Der Vorstand kann die Fortsetzung der Mitgliedschaft durch einen
     Erben oder Gesamtrechtsnachfolger ablehnen, wenn er Grund zu der
@@ -393,17 +397,19 @@ GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.
 
 4.  Das sich nach der Auseinandersetzung ergebende Guthaben ist dem
     Mitglied binnen eines Monats nach Feststellung des Jahresabschlusses
-    auszuzahlen. Auf die Rücklagen und das sonstige Vermögen der
-    Genossenschaft hat das ausgeschiedene Mitglied keinen Anspruch.
+    auszuzahlen.
 
     Laut Gesetz findet die Versammlung in der ersten Jahreshälfte statt.
     Spätester Auszahlungstermin ist somit der 31.7. des auf den Austritt
     folgenden Jahres.
 
-5.  Verlustvorträge werden anteilig vom Auseinandersetzungsguthaben
+5.   Auf die Rücklagen und das sonstige Vermögen der Genossenschaft hat
+    das ausgeschiedene Mitglied keinen Anspruch.
+
+6.  Verlustvorträge werden anteilig vom Auseinandersetzungsguthaben
     abgezogen.
 
-6.  Der Vorstand kann auf begründeten Antrag des Mitglieds eine
+7.  Der Vorstand kann auf begründeten Antrag des Mitglieds eine
     vorzeitige Teilauszahlung beschließen, wenn dadurch die Liquidität
     der Genossenschaft nach ordentlichen kaufmännischen Gesichtspunkten
     nicht beeinträchigt wird.

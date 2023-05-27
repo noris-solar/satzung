@@ -10,28 +10,28 @@
     <meta:initial-creator/>
     
     <meta:creation-date>2023-05-27T14:37:22Z</meta:creation-date>
-    <dc:date>2023-05-27T18:13:35.243580962</dc:date>
+    <dc:date>2023-05-27T18:53:53.105914659</dc:date>
     
     
     
-  <meta:editing-duration>PT11M34S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="185" meta:word-count="2090" meta:character-count="15586" meta:non-whitespace-character-count="13792"/><meta:user-defined meta:name="date">2023-05-26</meta:user-defined><meta:user-defined meta:name="numbersections">True</meta:user-defined><meta:user-defined meta:name="standalone">True</meta:user-defined></office:meta>
+  <meta:editing-duration>PT12M7S</meta:editing-duration><meta:editing-cycles>3</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="185" meta:word-count="2090" meta:character-count="15586" meta:non-whitespace-character-count="13792"/><meta:user-defined meta:name="date">2023-05-26</meta:user-defined><meta:user-defined meta:name="numbersections">True</meta:user-defined><meta:user-defined meta:name="standalone">True</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">105833</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">39848</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">23788</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22756</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">19468</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">5022</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14896</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">120826</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">105833</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">39846</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">23786</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">128588</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -104,7 +104,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3259878</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3313069</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -173,7 +173,7 @@
   <draw:hatch draw:name="hatch" draw:style="single" draw:color="#3465a4" draw:distance="0.02cm" draw:rotation="0"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
@@ -1409,7 +1409,7 @@
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%)" style:num-suffix=")" style:num-format="a">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
     </style:list-level-properties>
@@ -2344,12 +2344,12 @@
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc25940_3244947737" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">§ 20 <text:tab/>Gemeinsame Vorschriften für die Organe<text:tab/>11</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P15" text:outline-level="5"><text:bookmark-start text:name="anmerkungen"/><text:bookmark-start text:name="__RefHeading___Toc25898_3244947737"/>Anmerkungen<text:bookmark-end text:name="anmerkungen"/><text:bookmark-end text:name="__RefHeading___Toc25898_3244947737"/></text:h>
+   <text:h text:style-name="P15" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc25898_3244947737"/><text:bookmark-start text:name="anmerkungen"/>Anmerkungen<text:bookmark-end text:name="__RefHeading___Toc25898_3244947737"/><text:bookmark-end text:name="anmerkungen"/></text:h>
    <text:p text:style-name="P6">Grüne Texte <text:span text:style-name="T3">wie dieser </text:span>sind Erläuterungen und nicht Teil der eigentlichen Satzung.</text:p>
    <text:h text:style-name="P15" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc25900_3244947737"/><text:span text:style-name="T9">Umfang</text:span><text:bookmark-start text:name="form-der-satzung"/> der Satzung<text:bookmark-end text:name="__RefHeading___Toc25900_3244947737"/><text:bookmark-end text:name="form-der-satzung"/></text:h>
    <text:p text:style-name="P6"><text:span text:style-name="T9">Vom</text:span> G<text:span text:style-name="T9">enossenschaftsg</text:span>esetz <text:span text:style-name="T9">vorgeschriebene</text:span> Regelungen sind in dieser Satzung nicht enthalten.</text:p>
    <text:p text:style-name="P7">Wir wollen dadurch die Lesbarkeit verbessern und uns auf die Sachverhalte konzentrieren, die wir tatsächlich beeinflussen können <text:span text:style-name="T9">bzw. müssen</text:span>.</text:p>
-   <text:h text:style-name="P9" text:outline-level="1" text:restart-numbering="true" text:start-value="-1"><text:bookmark-start text:name="__RefHeading___Toc25902_3244947737"/><text:bookmark-start text:name="name-sitz"/>Name, Sitz<text:bookmark-end text:name="__RefHeading___Toc25902_3244947737"/><text:bookmark-end text:name="name-sitz"/></text:h>
+   <text:h text:style-name="P9" text:outline-level="1" text:restart-numbering="true" text:start-value="-1"><text:bookmark-start text:name="name-sitz"/><text:bookmark-start text:name="__RefHeading___Toc25902_3244947737"/>Name, Sitz<text:bookmark-end text:name="name-sitz"/><text:bookmark-end text:name="__RefHeading___Toc25902_3244947737"/></text:h>
    <text:list text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P39">Die Genossenschaft führt den Namen “noris.solar eG”.</text:p>
@@ -2358,7 +2358,7 @@
      <text:p text:style-name="P39">Sitz der Genossenschaft ist Nürnberg.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="zweck-und-gegenstand"/><text:bookmark-start text:name="__RefHeading___Toc25904_3244947737"/>Zweck und Gegenstand<text:bookmark-end text:name="zweck-und-gegenstand"/><text:bookmark-end text:name="__RefHeading___Toc25904_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25904_3244947737"/><text:bookmark-start text:name="zweck-und-gegenstand"/>Zweck und Gegenstand<text:bookmark-end text:name="__RefHeading___Toc25904_3244947737"/><text:bookmark-end text:name="zweck-und-gegenstand"/></text:h>
    <text:list text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P40">Zweck der Genossenschaft ist die gemeinschaftliche Organisation ihrer Mitglieder, um den CO<text:span text:style-name="T8">2</text:span>-Ausstoß zu senken und Klimaneutralität zu erreichen,</text:p>
@@ -2390,7 +2390,7 @@
      <text:p text:style-name="P40">Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung der Genossenschaft und endet mit Ablauf des laufenden Kalenderjahres.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="generalversammlung"/><text:bookmark-start text:name="__RefHeading___Toc25906_3244947737"/>Generalversammlung<text:bookmark-end text:name="generalversammlung"/><text:bookmark-end text:name="__RefHeading___Toc25906_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25906_3244947737"/><text:bookmark-start text:name="generalversammlung"/>Generalversammlung<text:bookmark-end text:name="__RefHeading___Toc25906_3244947737"/><text:bookmark-end text:name="generalversammlung"/></text:h>
    <text:list text:style-name="L3">
     <text:list-item>
      <text:p text:style-name="P41">Die Generalversammlung wird durch unmittelbare Benachrichtigung sämtlicher Mitglieder in Textform einberufen.</text:p>
@@ -2425,7 +2425,7 @@
      <text:p text:style-name="P41">Vertreter des Prüfungsverbandes können an jeder Generalversammlung beratend teilnehmen.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="mehrheitserfordernisse"/><text:bookmark-start text:name="__RefHeading___Toc25936_3244947737"/>Mehrheitserfordernisse<text:bookmark-end text:name="mehrheitserfordernisse"/><text:bookmark-end text:name="__RefHeading___Toc25936_3244947737"/></text:h>
+   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25936_3244947737"/><text:bookmark-start text:name="mehrheitserfordernisse"/>Mehrheitserfordernisse<text:bookmark-end text:name="__RefHeading___Toc25936_3244947737"/><text:bookmark-end text:name="mehrheitserfordernisse"/></text:h>
    <text:list text:style-name="L4">
     <text:list-item>
      <text:p text:style-name="P44">Es wird angestrebt, Entscheidungen im Konsens zu treffen.</text:p>
@@ -2464,7 +2464,7 @@
      <text:p text:style-name="P46">Gesetzliche Vorschriften, die eine größere Mehrheit vorschreiben, bleiben unberührt.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="auskunftsrecht"/><text:bookmark-start text:name="__RefHeading___Toc25908_3244947737"/>Auskunftsrecht<text:bookmark-end text:name="auskunftsrecht"/><text:bookmark-end text:name="__RefHeading___Toc25908_3244947737"/></text:h>
+   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25908_3244947737"/><text:bookmark-start text:name="auskunftsrecht"/>Auskunftsrecht<text:bookmark-end text:name="__RefHeading___Toc25908_3244947737"/><text:bookmark-end text:name="auskunftsrecht"/></text:h>
    <text:list text:style-name="L5">
     <text:list-item>
      <text:p text:style-name="P47">Jedem Mitglied ist auf Verlangen in der Generalversammlung Auskunft über Angelegenheiten der Genossenschaft zu geben, soweit das zur sachgemäßen Beurteilung des Gegenstandes der Tagesordnung erforderlich ist. Die Auskunft erteilt der Vorstand oder der Aufsichtsrat.</text:p>
@@ -2493,7 +2493,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="aufsichtsrat"/><text:bookmark-start text:name="__RefHeading___Toc25910_3244947737"/>Aufsichtsrat<text:bookmark-end text:name="aufsichtsrat"/><text:bookmark-end text:name="__RefHeading___Toc25910_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25910_3244947737"/><text:bookmark-start text:name="aufsichtsrat"/>Aufsichtsrat<text:bookmark-end text:name="__RefHeading___Toc25910_3244947737"/><text:bookmark-end text:name="aufsichtsrat"/></text:h>
    <text:list text:style-name="L6">
     <text:list-item>
      <text:p text:style-name="P49">Der Aufsichtsrat besteht aus mindestens drei Mitgliedern.</text:p>
@@ -2511,8 +2511,8 @@
      <text:p text:style-name="P50">Er ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder an der Beschlussfassung teilnimmt.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="vorstand"/><text:bookmark-start text:name="__RefHeading___Toc25912_3244947737"/>Vorstand<text:bookmark-end text:name="vorstand"/><text:bookmark-end text:name="__RefHeading___Toc25912_3244947737"/></text:h>
-   <text:list text:style-name="L7">
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25912_3244947737"/><text:bookmark-start text:name="vorstand"/>Vorstand<text:bookmark-end text:name="__RefHeading___Toc25912_3244947737"/><text:bookmark-end text:name="vorstand"/></text:h>
+   <text:list xml:id="list4162459213" text:style-name="L7">
     <text:list-item>
      <text:p text:style-name="P51">Der Vorstand besteht aus <text:span text:style-name="T3">mindestens </text:span>zwei Mitgliedern. Er wird vom Aufsichtsrat bestellt und abberufen. Der Aufsichtsrat bestimmt die <text:span text:style-name="T3">Anzahl der Vorstände und ihre </text:span>Amtsdauer.</text:p>
     </text:list-item>
@@ -2552,7 +2552,7 @@
    </text:list>
    <text:p text:style-name="Text_20_body">Bei wiederkehrenden Leistungen gilt die Frist bis zur nächstmöglichen Vertragsbeendigung.</text:p>
    <text:p text:style-name="Text_20_body">Die Zustimmung kann für gleichartige Geschäfte generell erteilt werden.</text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="mitgliedschaft"/><text:bookmark-start text:name="__RefHeading___Toc25914_3244947737"/>Mitgliedschaft<text:bookmark-end text:name="mitgliedschaft"/><text:bookmark-end text:name="__RefHeading___Toc25914_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25914_3244947737"/><text:bookmark-start text:name="mitgliedschaft"/>Mitgliedschaft<text:bookmark-end text:name="__RefHeading___Toc25914_3244947737"/><text:bookmark-end text:name="mitgliedschaft"/></text:h>
    <text:list text:style-name="L8">
     <text:list-item>
      <text:p text:style-name="P53">Mitglied werden können</text:p>
@@ -2598,7 +2598,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3">Beispielsweise könnten wir beschließen, nichtöffentliche Emails an ein Mitglied zu verschlüsseln. Dazu müssten wir den öffentlichen GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.</text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="geschäftsanteil"/><text:bookmark-start text:name="__RefHeading___Toc25916_3244947737"/>Geschäftsanteil<text:bookmark-end text:name="geschäftsanteil"/><text:bookmark-end text:name="__RefHeading___Toc25916_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25916_3244947737"/><text:bookmark-start text:name="geschäftsanteil"/>Geschäftsanteil<text:bookmark-end text:name="__RefHeading___Toc25916_3244947737"/><text:bookmark-end text:name="geschäftsanteil"/></text:h>
    <text:list text:style-name="L9">
     <text:list-item>
      <text:p text:style-name="P55">Der Geschäftsanteil beträgt 1000 €. Er ist sofort in voller Höhe einzuzahlen.</text:p>
@@ -2618,7 +2618,7 @@
      <text:p text:style-name="P55">Die Abtretung oder Verpfändung des Geschäftsguthabens an Dritte ist unzu<text:span text:style-name="T5">–</text:span>lässig und der Genossenschaft gegenüber unwirksam. Eine Aufrechnung des Geschäftsguthabens durch das Mitglied gegen seine Verbindlichkeiten gegenüber der Genossenschaft ist nicht gestattet.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="rücklagen-nachschüsse"/><text:bookmark-start text:name="__RefHeading___Toc25918_3244947737"/>Rücklagen, Nachschüsse<text:bookmark-end text:name="rücklagen-nachschüsse"/><text:bookmark-end text:name="__RefHeading___Toc25918_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25918_3244947737"/><text:bookmark-start text:name="rücklagen-nachschüsse"/>Rücklagen, Nachschüsse<text:bookmark-end text:name="__RefHeading___Toc25918_3244947737"/><text:bookmark-end text:name="rücklagen-nachschüsse"/></text:h>
    <text:list text:style-name="L10">
     <text:list-item>
      <text:p text:style-name="P56">Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.</text:p>
@@ -2630,7 +2630,7 @@
      <text:p text:style-name="P56">Der gesetzlichen Rücklage sind mindestens 20% des Jahres­überschusses zuzuführen, bis mindestens 100% der Summe der Geschäftsanteile erreicht sind.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="rückvergütung-verjährung"/><text:bookmark-start text:name="__RefHeading___Toc25920_3244947737"/>Rückvergütung, Verjährung<text:bookmark-end text:name="rückvergütung-verjährung"/><text:bookmark-end text:name="__RefHeading___Toc25920_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25920_3244947737"/><text:bookmark-start text:name="rückvergütung-verjährung"/>Rückvergütung, Verjährung<text:bookmark-end text:name="__RefHeading___Toc25920_3244947737"/><text:bookmark-end text:name="rückvergütung-verjährung"/></text:h>
    <text:list text:style-name="L11">
     <text:list-item>
      <text:p text:style-name="P57">Die Mitglieder haben Anspruch auf eine vom Vorstand beschlossene Rückvergütung.</text:p>
@@ -2646,7 +2646,7 @@
      <text:p text:style-name="P57">Verjährte Ansprüche werden den Rücklagen der Genossenschaft zugeführt.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="ende-der-mitgliedschaft"/><text:bookmark-start text:name="__RefHeading___Toc25922_3244947737"/>Ende der Mitgliedschaft<text:bookmark-end text:name="ende-der-mitgliedschaft"/><text:bookmark-end text:name="__RefHeading___Toc25922_3244947737"/></text:h>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25922_3244947737"/><text:bookmark-start text:name="ende-der-mitgliedschaft"/>Ende der Mitgliedschaft<text:bookmark-end text:name="__RefHeading___Toc25922_3244947737"/><text:bookmark-end text:name="ende-der-mitgliedschaft"/></text:h>
    <text:list text:style-name="L12">
     <text:list-item>
      <text:p text:style-name="P58">Die Mitgliedschaft endet durch:</text:p>
@@ -2666,7 +2666,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="kündigung"/><text:bookmark-start text:name="__RefHeading___Toc25924_3244947737"/>Kündigung<text:bookmark-end text:name="kündigung"/><text:bookmark-end text:name="__RefHeading___Toc25924_3244947737"/></text:h>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25924_3244947737"/><text:bookmark-start text:name="kündigung"/>Kündigung<text:bookmark-end text:name="__RefHeading___Toc25924_3244947737"/><text:bookmark-end text:name="kündigung"/></text:h>
    <text:list text:style-name="L13">
     <text:list-item>
      <text:p text:style-name="P60">Die Frist für die Kündigung der Mitgliedschaft beträgt 6 Monate zum Schluss des Geschäftsjahres.</text:p>
@@ -2678,7 +2678,7 @@
      <text:p text:style-name="P60">Eine Verlängerung der Kündigungsfrist muss mindestens ein Jahr vor dem Zeitpunkt beschlossen werden, zu dem sie für Bestandsmitglieder wirksam werden soll.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="übertragung-des-geschäftsguthabens"/><text:bookmark-start text:name="__RefHeading___Toc25926_3244947737"/><text:soft-page-break/>Übertragung des Geschäftsguthabens<text:bookmark-end text:name="übertragung-des-geschäftsguthabens"/><text:bookmark-end text:name="__RefHeading___Toc25926_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25926_3244947737"/><text:bookmark-start text:name="übertragung-des-geschäftsguthabens"/><text:soft-page-break/>Übertragung des Geschäftsguthabens<text:bookmark-end text:name="__RefHeading___Toc25926_3244947737"/><text:bookmark-end text:name="übertragung-des-geschäftsguthabens"/></text:h>
    <text:list text:style-name="L14">
     <text:list-item>
      <text:p text:style-name="P61">Jedes Mitglied kann sein Geschäftsguthaben jederzeit durch schriftliche Vereinbarung einem anderen ganz oder teilweise übertragen und hierdurch seine Mitgliedschaft ohne Auseinandersetzung beenden oder die Anzahl seiner Geschäftsanteile verringern, sofern der Erwerber Mitglied der Genossenschaft wird oder bereits ist.</text:p>
@@ -2694,7 +2694,7 @@
      <text:p text:style-name="P34">Relevant wären ansonsten die Verhältnisse zu Beginn des Geschäftsjahrs, aber das würde zusätzlichen Verwaltungsaufwand auslösen und wäre auch nicht im Interesse des neuen Eigentümers.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="tod-auflösung-einer-juristischen-person-oder-personengesellschaft"/><text:bookmark-start text:name="__RefHeading___Toc25928_3244947737"/>Tod / Auflösung einer juristischen Person oder Personengesellschaft<text:bookmark-end text:name="tod-auflösung-einer-juristischen-person-oder-personengesellschaft"/><text:bookmark-end text:name="__RefHeading___Toc25928_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25928_3244947737"/><text:bookmark-start text:name="tod-auflösung-einer-juristischen-person-oder-personengesellschaft"/>Tod / Auflösung einer juristischen Person oder Personengesellschaft<text:bookmark-end text:name="__RefHeading___Toc25928_3244947737"/><text:bookmark-end text:name="tod-auflösung-einer-juristischen-person-oder-personengesellschaft"/></text:h>
    <text:list text:style-name="L15">
     <text:list-item>
      <text:p text:style-name="P62">Die Mitgliedschaft endet mit dem Tod des Mitglieds.</text:p>
@@ -2707,7 +2707,7 @@
      <text:p text:style-name="P62">Der Vorstand kann die Fortsetzung der Mitgliedschaft durch einen Erben oder Gesamtrechtsnachfolger ablehnen, wenn er Grund zu der Annahme hat, dass diese der Genossenschaft nicht dienlich ist. Die Begründung ist dem Erben unverzüglich mitzuteilen. Die Widerspruchsrechte gemäß § 15 (Ausschluss) gelten entsprechend.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="ausschluss"/><text:bookmark-start text:name="__RefHeading___Toc25930_3244947737"/>Ausschluss<text:bookmark-end text:name="ausschluss"/><text:bookmark-end text:name="__RefHeading___Toc25930_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25930_3244947737"/><text:bookmark-start text:name="ausschluss"/>Ausschluss<text:bookmark-end text:name="__RefHeading___Toc25930_3244947737"/><text:bookmark-end text:name="ausschluss"/></text:h>
    <text:list text:style-name="L16">
     <text:list-item>
      <text:p text:style-name="P63">Ein Mitglied kann zum Schluss eines Geschäftsjahres ausgeschlossen werden, wenn</text:p>
@@ -2752,7 +2752,7 @@
      <text:p text:style-name="P64">Über den Ausschluss von Aufsichtsrats- oder Vorstands­mitgliedern entscheidet grundsätzlich die Generalversammlung.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="auseinandersetzung"/><text:bookmark-start text:name="__RefHeading___Toc25932_3244947737"/>Auseinandersetzung<text:bookmark-end text:name="auseinandersetzung"/><text:bookmark-end text:name="__RefHeading___Toc25932_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25932_3244947737"/><text:bookmark-start text:name="auseinandersetzung"/>Auseinandersetzung<text:bookmark-end text:name="__RefHeading___Toc25932_3244947737"/><text:bookmark-end text:name="auseinandersetzung"/></text:h>
    <text:list text:style-name="L18">
     <text:list-item>
      <text:p text:style-name="P65">Das Ausscheiden aus der Genossenschaft hat die Auseinandersetzung zwi<text:span text:style-name="T7">s</text:span>chen ihr und dem ausgeschiedenen Mitglied bzw. dessen Erben oder Rechtsnachfolgern zur Folge.</text:p>
@@ -2775,7 +2775,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3">Einem Mitglied, das in eine wirtschaftliche Notlage gerät, wollen wir nach Möglichkeit nicht zumuten, bis zu eineinhalb Jahre auf das Geld zu warten.</text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="kommunikation"/><text:bookmark-start text:name="__RefHeading___Toc25934_3244947737"/>Kommunikation<text:bookmark-end text:name="kommunikation"/><text:bookmark-end text:name="__RefHeading___Toc25934_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25934_3244947737"/><text:bookmark-start text:name="kommunikation"/>Kommunikation<text:bookmark-end text:name="__RefHeading___Toc25934_3244947737"/><text:bookmark-end text:name="kommunikation"/></text:h>
    <text:list text:style-name="L19">
     <text:list-item>
      <text:p text:style-name="P66">Die Genossenschaft benachrichtigt ihre Mitglieder grundsätzlich in Textform via E-Mail.</text:p>
@@ -2790,7 +2790,7 @@
      <text:p text:style-name="P67">Gesetzliche Bestimmungen zur Bekanntgabe im Bundesanzeiger und/oder Handelsregister bleiben unberührt.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="gemeinsame-vorschriften-für-die-organe"/><text:bookmark-start text:name="__RefHeading___Toc25940_3244947737"/>Gemeinsame Vorschriften für die Organe<text:bookmark-end text:name="gemeinsame-vorschriften-für-die-organe"/><text:bookmark-end text:name="__RefHeading___Toc25940_3244947737"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc25940_3244947737"/><text:bookmark-start text:name="gemeinsame-vorschriften-für-die-organe"/>Gemeinsame Vorschriften für die Organe<text:bookmark-end text:name="__RefHeading___Toc25940_3244947737"/><text:bookmark-end text:name="gemeinsame-vorschriften-für-die-organe"/></text:h>
    <text:list text:style-name="L21">
     <text:list-item>
      <text:p text:style-name="P68">Niemand kann für sich oder einen anderen das Stimmrecht ausüben, wenn darüber Beschluss gefasst wird, ob er/sie oder das von ihm/ihr vertretene Mitglied zu entlasten oder von einer Verbindlichkeit zu befreien ist oder ob die Genossenschaft gegen ihn/sie oder das vertretene Mitglied einen Anspruch geltend machen soll.</text:p>
