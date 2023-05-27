@@ -19,6 +19,8 @@ if test -f $D ; then
 fi
 
 pandoc $S -o $N
+sed -i -e 's/\[\]{#anchor[-0-9]*}//g' $N
+
 if ! diff -u $F $N > $D ; then
     echo Keine Änderungen.
 else
