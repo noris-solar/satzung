@@ -366,9 +366,9 @@ GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.
         über sein Vermögen ein Antrag auf Eröffnung des
         Insolvenzverfahrens gestellt wurde.
 
-> Insolvenzen generieren einen Berg an Verwaltungsaufwand und ggf.
-> unsichere Besitzverhältnisse.
-
+```{=html}
+<!-- -->
+```
 2.  Über den Ausschluss entscheidet der Vorstand. Gegen den
     Ausschlussbeschluss kann binnen sechs Wochen nach Absendung beim
     Aufsichtsrat Widerspruch eingelegt werden.
@@ -445,3 +445,7 @@ nachzusehen.
     oder Vollmacht vertretenen Person berühren, so hat das betreffende
     Mitglied nicht das Recht, an der Beratung teilzunehmen. Das Mitglied
     ist jedoch vor der Beschlussfassung zu hören.
+3.  Die Gewährung von Krediten oder anderweitigen wirtschaftlichen
+    Vorteilen besonderer Art an Mitglieder des Vorstands, deren
+    Ehegatten, minderjähriger Kinder sowie an Dritte, die für Rechnung
+    einer dieser Personen handeln, ist untersagt.
