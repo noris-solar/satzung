@@ -36,6 +36,5 @@ clean:
 publish:
 	./publish.sh
 
-web:
-	echo "TODO" >&2
-	exit 1
+web: pdf html odt
+	rsync -rav Satzung.odt Satzung.pdf Satzung.html solar@dispatch.vm.smurf.noris.de:/var/www/solar/files/
