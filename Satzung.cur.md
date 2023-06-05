@@ -434,18 +434,10 @@ nachzusehen.
 
 # Gemeinsame Vorschriften für die Organe
 
-1.  Niemand kann für sich oder einen anderen das Stimmrecht ausüben,
-    wenn darüber Beschluss gefasst wird, ob er/sie oder das von ihm/ihr
-    vertretene Mitglied zu entlasten oder von einer Verbindlichkeit zu
-    befreien ist oder ob die Genossenschaft gegen ihn/sie oder das
-    vertretene Mitglied einen Anspruch geltend machen soll.
-2.  Wird über Angelegenheiten der Genossenschaft beraten, die die
-    Interessen eines Organmitglieds, seines Ehegatten / Lebenspartners,
-    seiner Eltern, Kinder und Geschwister oder von ihm kraft Gesetzes
-    oder Vollmacht vertretenen Person berühren, so hat das betreffende
-    Mitglied nicht das Recht, an der Beratung teilzunehmen. Das Mitglied
-    ist jedoch vor der Beschlussfassung zu hören.
-3.  Die Gewährung von Krediten oder anderweitigen wirtschaftlichen
+1.  Die Mitglieder von Vorstand und Aufsichtsrat können nur einzeln
+    entlastet werden; hierbei haben die Mitglieder des Vorstands und des
+    Aufsichtsrats kein Stimmrecht.
+2.  Die Gewährung von Krediten oder anderweitigen wirtschaftlichen
     Vorteilen besonderer Art an Mitglieder des Vorstands, deren
     Ehegatten, minderjähriger Kinder sowie an Dritte, die für Rechnung
     einer dieser Personen handeln, ist untersagt.
