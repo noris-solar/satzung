@@ -213,28 +213,18 @@ GPG-Schlüssel o.Ä. in der Mitgliederliste speichern.
 
 # Geschäftsanteil
 
-1.  Der Geschäftsanteil beträgt 1000 €. Er ist sofort in voller Höhe
+1.  Der Geschäftsanteil beträgt 100 €. Er ist sofort in voller Höhe
     einzuzahlen.
-
-    Für den Anfang produziert ein kleinerer Mindestanteil zu viel
-    Verwaltungsaufwand.
-
-    Wir können problemlos später die Anteile aufspalten und/oder ein
-    Eintrittsgeld festlegen.
-
 2.  Mitglieder können sich mit mehreren Geschäftsanteilen an der
     Genossenschaft beteiligen. Über die Zulassung entscheidet der
     Vorstand.
-
 3.  Die Generalversammlung kann Richtlinien für die Zulassung von
     Mitgliedern oder von weiteren Geschäftsanteilen beschließen.
     Insbesondere kann sie eine Obergrenze für die Anteile pro Mitglied
     festlegen.
-
 4.  Die Beteiligung eines Mitglieds mit weiteren Geschäftsanteilen darf
     erst zugelassen werden, wenn die bisherigen Anteile voll eingezahlt
     sind.
-
 5.  Die Abtretung oder Verpfändung des Geschäftsguthabens an Dritte ist
     unzu--lässig und der Genossenschaft gegenüber unwirksam. Eine
     Aufrechnung des Geschäftsguthabens durch das Mitglied gegen seine

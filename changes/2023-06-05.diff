@@ -1,6 +1,6 @@
---- Satzung.cur.md	2023-06-05 09:04:58.455838459 +0200
-+++ Satzung.md	2023-06-05 09:04:59.315841982 +0200
-@@ -1 +1,443 @@
+--- Satzung.cur.md	2023-06-05 09:08:13.708646169 +0200
++++ Satzung.md	2023-06-05 09:08:14.544649656 +0200
+@@ -1 +1,433 @@
 -patching file Satzung.cur.md
 +Satzung der noris.solar eG
 +
@@ -217,28 +217,18 @@
 +
 +# Geschäftsanteil
 +
-+1.  Der Geschäftsanteil beträgt 1000 €. Er ist sofort in voller Höhe
++1.  Der Geschäftsanteil beträgt 100 €. Er ist sofort in voller Höhe
 +    einzuzahlen.
-+
-+    Für den Anfang produziert ein kleinerer Mindestanteil zu viel
-+    Verwaltungsaufwand.
-+
-+    Wir können problemlos später die Anteile aufspalten und/oder ein
-+    Eintrittsgeld festlegen.
-+
 +2.  Mitglieder können sich mit mehreren Geschäftsanteilen an der
 +    Genossenschaft beteiligen. Über die Zulassung entscheidet der
 +    Vorstand.
-+
 +3.  Die Generalversammlung kann Richtlinien für die Zulassung von
 +    Mitgliedern oder von weiteren Geschäftsanteilen beschließen.
 +    Insbesondere kann sie eine Obergrenze für die Anteile pro Mitglied
 +    festlegen.
-+
 +4.  Die Beteiligung eines Mitglieds mit weiteren Geschäftsanteilen darf
 +    erst zugelassen werden, wenn die bisherigen Anteile voll eingezahlt
 +    sind.
-+
 +5.  Die Abtretung oder Verpfändung des Geschäftsguthabens an Dritte ist
 +    unzu--lässig und der Genossenschaft gegenüber unwirksam. Eine
 +    Aufrechnung des Geschäftsguthabens durch das Mitglied gegen seine
