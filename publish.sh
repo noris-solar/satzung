@@ -15,14 +15,14 @@ N=Satzung.md  ## generiert von "make md"
 if test -f $D ; then
     echo Warnung: ersetze bestehende Datei
     if test -s $D ; then
-        patch -R $F $D > /tmp/$F
-        mv /tmp/$F $F
+        patch -R $F $D
     fi
 fi
 
 make md
 
-if ! diff -u $F $N > $D ; then
+diff -u $F $N > $D || true
+if ! test -s $D; then
     echo Keine Änderungen.
 else
     mv $N $F
